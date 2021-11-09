@@ -1,0 +1,53 @@
+There are 12 vehicles in the container.
+SHIP. Speed: 520, , distance: 1835.0, , ship type: tanker,, water_displacement: 9035, 
+road time: 3.53
+SHIP. Speed: 567, , distance: 1138.0, , ship type: tugboat,, water_displacement: 8139, 
+road time: 2.01
+SHIP. Speed: 148, , distance: 2228.0, , ship type: tanker,, water_displacement: 10400, 
+road time: 15.05
+PLANE. Speed: 693, , distance: 585.0, , load capacity: 48, , flight range: 5736, 
+road time: 0.84
+TRAIN. Speed: 514, , distance: 1423.0, , number of wagons: 9, 
+road time: 2.77
+TRAIN. Speed: 197, , distance: 2195.0, , number of wagons: 8, 
+road time: 11.14
+SHIP. Speed: 628, , distance: 2299.0, , ship type: liner,, water_displacement: 8653, 
+road time: 3.66
+TRAIN. Speed: 493, , distance: 578.0, , number of wagons: 13, 
+road time: 1.17
+SHIP. Speed: 139, , distance: 1940.0, , ship type: liner,, water_displacement: 6034, 
+road time: 13.96
+TRAIN. Speed: 549, , distance: 1399.0, , number of wagons: 9, 
+road time: 2.55
+TRAIN. Speed: 367, , distance: 2231.0, , number of wagons: 13, 
+road time: 6.08
+SHIP. Speed: 376, , distance: 2501.0, , ship type: tanker,, water_displacement: 7360, 
+road time: 6.65
+
+
+Best time:
+There are 12 vehicles in the container.
+SHIP. Speed: 148, , distance: 2228.0, , ship type: tanker,, water_displacement: 10400, 
+road time: 15.05
+SHIP. Speed: 139, , distance: 1940.0, , ship type: liner,, water_displacement: 6034, 
+road time: 13.96
+TRAIN. Speed: 197, , distance: 2195.0, , number of wagons: 8, 
+road time: 11.14
+SHIP. Speed: 376, , distance: 2501.0, , ship type: tanker,, water_displacement: 7360, 
+road time: 6.65
+TRAIN. Speed: 367, , distance: 2231.0, , number of wagons: 13, 
+road time: 6.08
+SHIP. Speed: 628, , distance: 2299.0, , ship type: liner,, water_displacement: 8653, 
+road time: 3.66
+SHIP. Speed: 520, , distance: 1835.0, , ship type: tanker,, water_displacement: 9035, 
+road time: 3.53
+TRAIN. Speed: 514, , distance: 1423.0, , number of wagons: 9, 
+road time: 2.77
+TRAIN. Speed: 549, , distance: 1399.0, , number of wagons: 9, 
+road time: 2.55
+SHIP. Speed: 567, , distance: 1138.0, , ship type: tugboat,, water_displacement: 8139, 
+road time: 2.01
+TRAIN. Speed: 493, , distance: 578.0, , number of wagons: 13, 
+road time: 1.17
+PLANE. Speed: 693, , distance: 585.0, , load capacity: 48, , flight range: 5736, 
+road time: 0.84

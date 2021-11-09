@@ -1,0 +1,57 @@
+There are 13 vehicles in the container.
+PLANE. Speed: 161, , distance: 2744.0, , load capacity: 77, , flight range: 1646, 
+road time: 17.04
+PLANE. Speed: 367, , distance: 1011.0, , load capacity: 15, , flight range: 2668, 
+road time: 2.75
+SHIP. Speed: 389, , distance: 951.0, , ship type: tanker,, water_displacement: 11202, 
+road time: 2.44
+SHIP. Speed: 133, , distance: 2413.0, , ship type: tanker,, water_displacement: 12823, 
+road time: 18.14
+PLANE. Speed: 131, , distance: 2363.0, , load capacity: 214, , flight range: 1156, 
+road time: 18.04
+TRAIN. Speed: 375, , distance: 1286.0, , number of wagons: 10, 
+road time: 3.43
+TRAIN. Speed: 444, , distance: 2758.0, , number of wagons: 8, 
+road time: 6.21
+SHIP. Speed: 464, , distance: 1980.0, , ship type: liner,, water_displacement: 9480, 
+road time: 4.27
+TRAIN. Speed: 515, , distance: 2801.0, , number of wagons: 12, 
+road time: 5.44
+TRAIN. Speed: 321, , distance: 2043.0, , number of wagons: 15, 
+road time: 6.36
+SHIP. Speed: 623, , distance: 1056.0, , ship type: liner,, water_displacement: 4001, 
+road time: 1.70
+PLANE. Speed: 176, , distance: 582.0, , load capacity: 220, , flight range: 3722, 
+road time: 3.31
+TRAIN. Speed: 242, , distance: 2716.0, , number of wagons: 7, 
+road time: 11.22
+
+
+Best time:
+There are 13 vehicles in the container.
+SHIP. Speed: 133, , distance: 2413.0, , ship type: tanker,, water_displacement: 12823, 
+road time: 18.14
+PLANE. Speed: 131, , distance: 2363.0, , load capacity: 214, , flight range: 1156, 
+road time: 18.04
+PLANE. Speed: 161, , distance: 2744.0, , load capacity: 77, , flight range: 1646, 
+road time: 17.04
+TRAIN. Speed: 242, , distance: 2716.0, , number of wagons: 7, 
+road time: 11.22
+TRAIN. Speed: 321, , distance: 2043.0, , number of wagons: 15, 
+road time: 6.36
+TRAIN. Speed: 444, , distance: 2758.0, , number of wagons: 8, 
+road time: 6.21
+TRAIN. Speed: 515, , distance: 2801.0, , number of wagons: 12, 
+road time: 5.44
+SHIP. Speed: 464, , distance: 1980.0, , ship type: liner,, water_displacement: 9480, 
+road time: 4.27
+TRAIN. Speed: 375, , distance: 1286.0, , number of wagons: 10, 
+road time: 3.43
+PLANE. Speed: 176, , distance: 582.0, , load capacity: 220, , flight range: 3722, 
+road time: 3.31
+PLANE. Speed: 367, , distance: 1011.0, , load capacity: 15, , flight range: 2668, 
+road time: 2.75
+SHIP. Speed: 389, , distance: 951.0, , ship type: tanker,, water_displacement: 11202, 
+road time: 2.44
+SHIP. Speed: 623, , distance: 1056.0, , ship type: liner,, water_displacement: 4001, 
+road time: 1.70

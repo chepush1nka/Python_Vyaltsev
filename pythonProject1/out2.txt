@@ -1,0 +1,45 @@
+There are 10 vehicles in the container.
+PLANE. Speed: 620, , distance: 1011.0, , load capacity: 113, , flight range: 2087, 
+road time: 1.63
+TRAIN. Speed: 336, , distance: 690.0, , number of wagons: 10, 
+road time: 2.05
+PLANE. Speed: 246, , distance: 2789.0, , load capacity: 86, , flight range: 2296, 
+road time: 11.34
+TRAIN. Speed: 464, , distance: 998.0, , number of wagons: 14, 
+road time: 2.15
+PLANE. Speed: 283, , distance: 1531.0, , load capacity: 81, , flight range: 6291, 
+road time: 5.41
+TRAIN. Speed: 260, , distance: 2646.0, , number of wagons: 10, 
+road time: 10.18
+TRAIN. Speed: 683, , distance: 879.0, , number of wagons: 10, 
+road time: 1.29
+PLANE. Speed: 676, , distance: 633.0, , load capacity: 92, , flight range: 5269, 
+road time: 0.94
+PLANE. Speed: 509, , distance: 1852.0, , load capacity: 104, , flight range: 5386, 
+road time: 3.64
+TRAIN. Speed: 520, , distance: 634.0, , number of wagons: 12, 
+road time: 1.22
+
+
+Best time:
+There are 10 vehicles in the container.
+PLANE. Speed: 246, , distance: 2789.0, , load capacity: 86, , flight range: 2296, 
+road time: 11.34
+TRAIN. Speed: 260, , distance: 2646.0, , number of wagons: 10, 
+road time: 10.18
+PLANE. Speed: 283, , distance: 1531.0, , load capacity: 81, , flight range: 6291, 
+road time: 5.41
+PLANE. Speed: 509, , distance: 1852.0, , load capacity: 104, , flight range: 5386, 
+road time: 3.64
+TRAIN. Speed: 464, , distance: 998.0, , number of wagons: 14, 
+road time: 2.15
+TRAIN. Speed: 336, , distance: 690.0, , number of wagons: 10, 
+road time: 2.05
+PLANE. Speed: 620, , distance: 1011.0, , load capacity: 113, , flight range: 2087, 
+road time: 1.63
+TRAIN. Speed: 683, , distance: 879.0, , number of wagons: 10, 
+road time: 1.29
+TRAIN. Speed: 520, , distance: 634.0, , number of wagons: 12, 
+road time: 1.22
+PLANE. Speed: 676, , distance: 633.0, , load capacity: 92, , flight range: 5269, 
+road time: 0.94
